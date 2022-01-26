@@ -1,1 +1,0 @@
-Esse é o desafio do curso Introdução ao Git e ao GitHub.
